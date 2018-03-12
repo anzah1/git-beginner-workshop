@@ -2,13 +2,6 @@
 
 - Install [Git](https://git-scm.com)
 
-- Remember if you're wondering what any command does, you can open help for
-  that command:
-
-```bash
-git help config
-```
-
 - Unless you know really what you want, choose defaults on install
 
 - Launch Git Bash (for simplicitly rest of the instructions assume that Git
@@ -31,6 +24,13 @@ git config --global user.email i_like@defaults.com
 
 ```bash
 git config --global core.editor notepad
+```
+
+- Remember if you're wondering what any command does, you can open help for
+  that command:
+
+```bash
+git help config
 ```
 
 - For more information, there's [Pro Git book](https://git-scm.com/book/en/v2)
