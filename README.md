@@ -57,6 +57,7 @@ git clone git-beginner-workshop.git git-beginner-workshop
 - Just for sake of example here's how to do it from Git Bash:
 
 ```bash
+cd git-beginner-workshop
 touch your_name
 ```
 
