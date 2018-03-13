@@ -88,9 +88,8 @@ git status
 git add your_name
 ```
 
-- If you run `git status` again, file is no longer in list of untracked files
-
-- If ran `git status` file is now in list of files to be commited
+- If you run `git status` again, file is no longer in list of untracked files,
+  it's in list of files to be committed
 
 - `git add` can be run multiple times in order to add more files into a commit
 
